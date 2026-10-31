@@ -1,6 +1,6 @@
 # Recursive Prime-Factor Tree Representation
 
-This repository contains the Python implementation and computational validation of the recursive prime-factor tree representation introduced in the research note "*On a Recursive Prime-Factor Tree Representation for Partial Sums of Integer Sequences*"[doi:10.5281/zenodo.xxxxxxxx](https://doi.org/10.5281/zenodo.23831576).
+This repository contains the Python implementation and computational validation of the recursive prime-factor tree representation introduced in the research note "*On a Recursive Prime-Factor Tree Representation for Partial Sums of Integer Sequences*"[doi:10.5281/zenodo.23831576](https://doi.org/10.5281/zenodo.23831576).
 
 The implementation supports finite sequences of integers, including positive integers, negative integers, and zero.
 
