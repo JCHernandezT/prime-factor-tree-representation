@@ -52,5 +52,5 @@ python validate_prime_factor_tree.py
 If you use this implementation in your research, please cite the associated research note:
 
 Juan Camilo Hernández-Torres (2026). *Recursive Prime-Factor Tree Representation: Python Implementation
-and Computational Tests* [doi:10.5281/zenodo.xxxxxxxx](https://doi.org/10.5281/zenodo.xxxxxxxx).
+and Computational Tests* [doi:10.5281/zenodo.23831528](https://doi.org/10.5281/zenodo.23831528).
 
